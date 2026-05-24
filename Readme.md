@@ -41,3 +41,7 @@ Test -This is my first calculator practice
 
 Test2 git fetch vs git pull
 
+test 3 -welcome
+
+test4 --hariom
+
