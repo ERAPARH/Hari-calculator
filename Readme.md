@@ -38,3 +38,6 @@ Most features of the Numi for macOS are supported in terminal. However, these ar
 -   Plugins/extension
 
 Test -This is my first calculator practice
+
+Test2 git fetch vs git pull
+
