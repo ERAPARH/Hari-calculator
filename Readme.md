@@ -36,3 +36,5 @@ Most features of the Numi for macOS are supported in terminal. However, these ar
 -   CSS
 -   Variables
 -   Plugins/extension
+
+Test -This is my first calculator practice
